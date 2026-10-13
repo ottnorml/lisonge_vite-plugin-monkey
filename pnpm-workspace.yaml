@@ -9,7 +9,7 @@ catalog:
   '@types/cross-spawn': 6.0.6
   '@types/fs-extra': 11.0.4
   '@types/minimist': 1.2.5
-  '@types/node': 25.6.0
+  '@types/node': 26.6.5
   '@types/postcss-url': 10.0.4
   '@types/prompts': 2.4.9
   '@types/react': 19.2.14

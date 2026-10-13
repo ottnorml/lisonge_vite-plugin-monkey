@@ -53,7 +53,7 @@ catalog:
   systemjs: ^6.15.1
   terser: 5.46.1
   tsdown: 0.21.10
-  typescript: 6.0.2
+  typescript: 7.0.2
   typescript-eslint: 8.58.1
   unimport: 6.1.0
   unocss: 66.6.8
